@@ -25,5 +25,9 @@ This repository contains my C programming exercises and projects. Each folder re
 
 ---
 
+### 4️⃣ Triangle Validator
+📂 **Path:** `06-Triangle-Validator/`
+📜 **Description:** This program checks whether three given numbers can form a valid triangle using the triangle inequality theorem. If the conditions are met, it prints Yes, a triangle can be formed with these 3 values.", otherwise, it prints "No, a triangle cannot be formed with these values.".
+
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
