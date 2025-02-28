@@ -17,4 +17,13 @@ This repository contains my C programming exercises and projects. Each folder re
 📜 **Description:** This program calculates the diameter, area, and circumference of a circle based on the given radius. It uses π ≈ 3.14159 and prints the results with two decimal precision.
 ## 📜 License  
 
+---
+
+### 3️⃣ Digit Separator
+📂 **Path:** `05-Digit-Separator/`
+📜** Description:** This program takes a five-digit number as input and separates each digit with three spaces in between. If the input is not a five-digit number, it prompts the user to enter a valid number.
+
+---
+
+
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
