@@ -56,7 +56,15 @@ factorial_for.c → Uses a for loop.
 ---
 ### 8️⃣ Matrix Generator  
 📁 **Path:** `matrix-generator/`
-📜 **Description: **This program generates different types of matrices based on user input. The user selects a matrix type from the menu and defines its size. The program then prints the corresponding matrix pattern.  
+📜 **Description:** This program generates different types of matrices based on user input. The user selects a matrix type from the menu and defines its size. The program then prints the corresponding matrix pattern.  
+
+---
+
+###9️⃣ Histogram Generator
+📁 **Path:** `09-Histogram-Generator/`
+📜 **Description:** This program generates a histogram based on an array of values. Each index represents a data point, and its corresponding value is displayed as a bar of asterisks (*). The user can modify the array to visualize different data distributions.
+
+Bu şekilde ekleyebilirsin! 🚀
 
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
