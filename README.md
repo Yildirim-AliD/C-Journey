@@ -29,5 +29,13 @@ This repository contains my C programming exercises and projects. Each folder re
 📂 **Path:** `06-Triangle-Validator/`
 📜 **Description:** This program checks whether three given numbers can form a valid triangle using the triangle inequality theorem. If the conditions are met, it prints Yes, a triangle can be formed with these 3 values.", otherwise, it prints "No, a triangle cannot be formed with these values.".
 
+---
+
+### 5️⃣ Average Calculator
+
+📁 **Path:** `05-Average-Calculator/`  
+📜 **Description:** This program allows the user to enter numbers continuously and calculates their average. The user is asked whether they want to continue after each input. If the user enters 'Y' or 'y', they can continue; otherwise, the program prints the final average and exits.
+
+---
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
