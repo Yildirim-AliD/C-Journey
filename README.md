@@ -20,13 +20,13 @@ This repository contains my C programming exercises and projects. Each folder re
 ---
 
 ### 3️⃣ Digit Separator
-📂 **Path:** `05-Digit-Separator/`
+📂 **Path:** `03-Digit-Separator/`
 📜** Description:** This program takes a five-digit number as input and separates each digit with three spaces in between. If the input is not a five-digit number, it prompts the user to enter a valid number.
 
 ---
 
 ### 4️⃣ Triangle Validator
-📂 **Path:** `06-Triangle-Validator/`
+📂 **Path:** `04-Triangle-Validator/`
 📜 **Description:** This program checks whether three given numbers can form a valid triangle using the triangle inequality theorem. If the conditions are met, it prints Yes, a triangle can be formed with these 3 values.", otherwise, it prints "No, a triangle cannot be formed with these values.".
 
 ---
@@ -35,6 +35,15 @@ This repository contains my C programming exercises and projects. Each folder re
 
 📁 **Path:** `05-Average-Calculator/`  
 📜 **Description:** This program allows the user to enter numbers continuously and calculates their average. The user is asked whether they want to continue after each input. If the user enters 'Y' or 'y', they can continue; otherwise, the program prints the final average and exits.
+
+---
+
+### 6️⃣ Factorial Calculator  
+
+📁 **Path:** `06-Factorial-Calculator/`  
+📜 **Description:** This program calculates the factorial of a given number.  
+If the user enters **0** or **1**, the factorial is directly **1**.  
+For other positive integers, the program computes the factorial using a loop.  
 
 ---
 
