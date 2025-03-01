@@ -54,5 +54,9 @@ factorial_for.c → Uses a for loop.
 📜 **Description:** This program generates a multiplication table up to a user-defined range. The user inputs the maximum value, and the program prints a neatly formatted multiplication table.
 
 ---
+### 8️⃣ Matrix Generator  
+📁 **Path:** `matrix-generator/`
+📜 **Description: **This program generates different types of matrices based on user input. The user selects a matrix type from the menu and defines its size. The program then prints the corresponding matrix pattern.  
+
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
