@@ -38,12 +38,15 @@ This repository contains my C programming exercises and projects. Each folder re
 
 ---
 
-### 6️⃣ Factorial Calculator  
+6️⃣ Factorial Calculator
+📁 Path: 06-Factorial-Calculator/
+📜 Description: This program calculates the factorial of a given number.
 
-📁 **Path:** `06-Factorial-Calculator/`  
-📜 **Description:** This program calculates the factorial of a given number.  
-If the user enters **0** or **1**, the factorial is directly **1**.  
-For other positive integers, the program computes the factorial using a loop.  
+If the user enters 0 or 1, the factorial is directly 1.
+For other positive integers, the program computes the factorial using a loop.
+The repository contains two versions of the implementation:
+factorial_while.c → Uses a while loop.
+factorial_for.c → Uses a for loop.
 
 ---
 
