@@ -8,7 +8,7 @@ int main()
 
     do
     {
-        printf("Değer giriniz: ");
+        printf("Please enter a value: ");
         scanf("%d", &num);
         
         sum += num;
@@ -16,12 +16,12 @@ int main()
         
         ort = (float)sum / sayaç;
         
-        printf("Devam edecek misiniz? (E/H): ");
+        printf("Wil you continue? (Y/N): ");
         scanf(" %c", &c);
         
-    } while (c == 'E' || c == 'e');
+    } while (c == 'Y' || c == 'y');
     
-    printf("\nGirilen sayıların ortalaması: %.2f\n", ort);
+    printf("\nThe average of the entered values: %.2f\n", ort);
 
     return 0;
 }
