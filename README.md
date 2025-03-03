@@ -64,7 +64,12 @@ factorial_for.c → Uses a for loop.
 📁 **Path:** `09-Histogram-Generator/`
 📜 **Description:** This program generates a histogram based on an array of values. Each index represents a data point, and its corresponding value is displayed as a bar of asterisks (*). The user can modify the array to visualize different data distributions.
 
-Bu şekilde ekleyebilirsin! 🚀
+---
+
+### 🔟 Selection Sort
+📁 **Path:** `10-Selection-Sort/`
+📜 **Description:** A program that sorts an array of integers using the Selection Sort algorithm. It iterates through the array, finds the smallest element, and swaps it with the current index until the entire array is sorted in ascending order.
+
 
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
