@@ -69,6 +69,10 @@ factorial_for.c → Uses a for loop.
 ### 🔟 Selection Sort
 📁 **Path:** `10-Selection-Sort/`
 📜 **Description:** A program that sorts an array of integers using the Selection Sort algorithm. It iterates through the array, finds the smallest element, and swaps it with the current index until the entire array is sorted in ascending order.
+1️⃣ Standard Selection Sort – Sorts an array in ascending order by repeatedly selecting the smallest element.
+2️⃣ Descending Selection Sort – Sorts an array in descending order by selecting the largest element instead.
+3️⃣ Two-Way Selection Sort – Finds both the smallest and largest elements in a single pass and places them in their correct positions.
+4️⃣ Recursive Selection Sort – Implements Selection Sort using recursion instead of loops. 
 
 
 
