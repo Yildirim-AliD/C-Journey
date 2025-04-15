@@ -3,10 +3,10 @@
 int main()
 {
     int number;
-    printf("Beş basamaklı bir sayı girin: ");
+    printf("Enter a five-digit number: ");
     scanf("%d",&number);
     if (number < 10000 || number > 99999) {
-        printf("Lütfen beş basamaklı bir sayı girin!\n");
+        printf("Please enter a five-digit number!\n");
         return 1;
     }
     
