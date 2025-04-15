@@ -3,7 +3,7 @@
 int main()
 {
     char c;
-    int num, sum = 0, sayaç = 0;
+    int num, sum = 0, count = 0;
     float ort;
 
     do
@@ -12,9 +12,9 @@ int main()
         scanf("%d", &num);
         
         sum += num;
-        sayaç++;
+        count++;
         
-        ort = (float)sum / sayaç;
+        ort = (float)sum / count;
         
         printf("Wil you continue? (Y/N): ");
         scanf(" %c", &c);
