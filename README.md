@@ -6,6 +6,7 @@ This repo is where I collect my C programming exercises and homework. Nothing to
 
 - `exercises/` – Small practice files and experiments
 - `homework/` – Assignments from courses or tutorials
+- `weekly-examples` – Weekly examples organized by week  
 
 ## Why?
 
